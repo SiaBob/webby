@@ -1,0 +1,17 @@
+img {
+    width: 500px;
+}
+body{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    background: bisque;
+    color: firebrick;
+}
+
+img {
+    box-shadow:4px 4px 6px black;
+    border-radius: 10px;
+}
+#hm {
+    font-size: 40px;
+}
